@@ -187,7 +187,7 @@ export const GiftPage: React.FC<GiftPageProps> = ({ onContinue }) => {
             {/* Bold HBD text & recipient name Anishka */}
             <div className="space-y-3 mb-6">
               <h2 className="text-6xl sm:text-8xl font-serif font-black tracking-wider text-transparent bg-clip-text bg-gradient-to-r from-amber-300 via-rose-300 to-amber-200 drop-shadow-[0_10px_20px_rgba(251,191,36,0.4)]">
-                HBD
+                Happy Birthday
               </h2>
 
               <h1 className="text-4xl sm:text-6xl font-serif font-bold text-white tracking-normal flex items-center justify-center gap-3">
