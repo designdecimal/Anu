@@ -130,10 +130,10 @@ export const GiftPage: React.FC<GiftPageProps> = ({ onContinue }) => {
             </div>
 
             <h1 className="text-3xl sm:text-5xl font-serif font-bold text-white tracking-tight mb-4 drop-shadow-lg">
-              Unlock Your Birthday Present
+              Unlock The Birthday Greetings
             </h1>
             <p className="text-rose-200/80 text-sm sm:text-base max-w-md mb-10 font-sans">
-              A parcel wrapped with endless warmth, wonder, and wishes crafted specially for <strong className="text-amber-300 font-semibold">Anishka</strong>.
+              A parcel wrapped with warmth, wonder, and wishes crafted for <strong className="text-amber-300 font-semibold">Anishka</strong>.
             </p>
 
             {/* Tap to Open Gift Button with bounce animation */}
