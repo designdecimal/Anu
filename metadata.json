@@ -1,0 +1,6 @@
+{
+  "name": "Happy Birthday Anishka",
+  "description": "A romantic and interactive birthday greeting experience for Anishka with passcode unlock, gift reveal, blooming Java flowers, and a heartfelt love letter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
