@@ -159,50 +159,50 @@ Always Yours. ❤`;
         <div className="text-center mb-6 border-b border-[#d4af37]/40 pb-4">
           <div className="flex items-center justify-center gap-2 text-rose-700 text-xs uppercase tracking-widest font-sans font-semibold mb-1">
             <Sparkles className="w-3.5 h-3.5 text-[#d4af37]" />
-            <span>To Anishka · With Endless Love</span>
+            <span>To Anishka · With Love</span>
             <Sparkles className="w-3.5 h-3.5 text-[#d4af37]" />
           </div>
 
           <h1 className="text-3xl sm:text-4xl font-serif font-bold text-rose-950 tracking-tight">
-            Happy Birthday, My Love
+            Happy Birthday, Anishh
           </h1>
           <p className="text-xs text-stone-600 font-sans italic mt-1">
-            Celebrated with every beat of my heart
+            Celebrated with love, BadmintonPgluu
           </p>
         </div>
 
         {/* Letter Body in Romantic Handwritten / Cursive Font */}
         <div className="space-y-4 text-stone-800 leading-relaxed font-handwriting text-xl sm:text-2xl custom-letter-scroll max-h-[55vh] overflow-y-auto pr-2">
           <p className="font-bold text-rose-950 text-2xl sm:text-3xl font-script tracking-wide">
-            Dearest Anishka,
+            Dear Anishka,
           </p>
 
           <p>
-            On this extraordinary day, the universe gifted us someone truly enchanting—someone whose warmth melts away any quiet chill, whose smile holds the brilliance of golden dawn, and whose gentle spirit makes every single day brighter.
+            Anishka aapke saath bitaya hua har moment hamesha bohot fun hota hai, aap u hi muskurate rhe Anishh, and haan dopher ko to bs prank kr rhe the, kyun ki ye srprise txt jo krna tha karate cutiee.
           </p>
 
           <p>
-            Watching you blossom and grow has been a pure, undeniable joy. You have this rare, delicate magic about you: a blend of genuine kindness, radiant grace, and an infectious laughter that leaves footprints of light wherever you go.
+             Aap jitni ghussa krti ho, utni hi care karne waali aur pyaari ho. Assignments krke dene k liye shukriya, Anishh cllg toh aao aap
           </p>
 
           <p>
-            Just like the vibrant Java flower that stands proud and blooming amidst all seasons, may your life always overflow with deep passion, fearless dreams, and sweetest serenity.
+            Wishing you the happiest birthday,Let's celebrate the day bbyy.
           </p>
 
           <div className="bg-amber-100/60 border-l-4 border-rose-600 pl-4 py-2 my-2 rounded-r-xl font-sans text-xs sm:text-sm text-stone-800 space-y-1 not-italic">
-            <p className="font-semibold text-rose-900 font-serif text-sm">A Birthday Wish From The Soul:</p>
-            <p>• Joy so profound it makes you glow,</p>
-            <p>• Moments so sweet they turn into cherished memories,</p>
-            <p>• Peace that guards your gentle mind,</p>
-            <p>• And a love that cherishes every unique facet of who you are.</p>
+            <p className="font-semibold text-rose-900 font-serif text-sm">The Birthday Greeting:</p>
+            <p>• Dairy milk saathi shukriya,</p>
+            <p>• pn dairy milk peksha jasta sweet tr Anuu,</p>
+            <p>• Ek Phool, Do Phool,</p>
+            <p>• Anuu beautyfull.</p>
           </div>
 
           <p>
-            Never forget how deeply treasured, admired, and loved you are—not just today on your birthday, but every heartbeat along the way.
+            Feel free to share ur feelings bby, Anishh uu .
           </p>
 
           <p className="text-rose-900 font-bold">
-            Happy Birthday, my sweet Anishka. Here is to celebrating YOU!
+            Happy Birthday, sweet Anishka. Here is to celebrating YOU!
           </p>
         </div>
 
@@ -210,10 +210,10 @@ Always Yours. ❤`;
         <div className="mt-8 pt-4 border-t border-[#d4af37]/30 flex flex-col sm:flex-row items-center justify-between gap-4">
           <div className="text-center sm:text-left">
             <p className="font-script text-2xl sm:text-3xl text-rose-950 font-bold">
-              Forever with all my love,
+              With all the love,
             </p>
             <p className="font-handwriting text-lg sm:text-xl text-stone-600">
-              Always Yours ❤
+             Ahoo ❤
             </p>
           </div>
 
