@@ -240,7 +240,7 @@ export const LandingPage: React.FC<LandingPageProps> = ({ onUnlock }) => {
           {showHint && (
             <div className="mt-2 text-xs text-amber-200/90 bg-amber-950/40 border border-amber-500/30 rounded-xl py-2 px-3 animate-fade-in flex items-center gap-2">
               <Heart className="w-3.5 h-3.5 text-rose-400 fill-rose-400 shrink-0" />
-              <span>Hint: 3 universal words of love — <strong>1 4 3</strong> ("I Love You")</span>
+              <span>Hint: 3 words of love — <strong>1 4 3</strong> ("I Love You")</span>
             </div>
           )}
         </div>
