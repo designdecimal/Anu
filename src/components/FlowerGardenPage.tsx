@@ -125,7 +125,7 @@ export const FlowerGardenPage: React.FC<FlowerGardenPageProps> = ({ onContinue }
       <header className="relative z-20 flex flex-col items-center text-center mt-2 pointer-events-none">
         <div className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-rose-950/60 border border-rose-400/30 text-rose-200 text-xs uppercase tracking-widest font-medium backdrop-blur-md mb-2 shadow-lg">
           <Wind className="w-3.5 h-3.5 text-rose-300" />
-          <span>The Hibiscus Haven</span>
+          <span>The Hibiscus</span>
           <Sparkles className="w-3.5 h-3.5 text-amber-300" />
         </div>
 
@@ -204,7 +204,7 @@ export const FlowerGardenPage: React.FC<FlowerGardenPageProps> = ({ onContinue }
 
         <div className="mt-4 text-center max-w-sm px-4">
           <p className="font-handwriting text-2xl sm:text-3xl text-rose-200 drop-shadow">
-            "Like the Hibiscus that blooms with radiant grace, you brighten every corner of the world."
+            "Ek Samosa,Do chai, Anuu cutiepie."
           </p>
         </div>
       </div>
@@ -217,12 +217,12 @@ export const FlowerGardenPage: React.FC<FlowerGardenPageProps> = ({ onContinue }
           className="group inline-flex items-center gap-3 px-8 py-4 rounded-full bg-gradient-to-r from-amber-400 via-rose-500 to-amber-500 hover:from-amber-300 hover:to-rose-400 text-stone-950 font-bold text-base sm:text-lg shadow-[0_10px_30px_rgba(244,63,94,0.5)] border-2 border-amber-300/80 transform hover:scale-105 active:scale-95 transition-all duration-300 focus:outline-none focus:ring-4 focus:ring-amber-300/50"
         >
           <Mail className="w-5 h-5 text-stone-950 group-hover:rotate-12 transition-transform duration-300" />
-          <span>Read My Letter</span>
+          <span>Letter For Anishq</span>
           <Heart className="w-4 h-4 text-stone-950 fill-stone-950 group-hover:scale-125 transition-transform duration-300" />
         </button>
 
         <span className="text-xs text-rose-300/70 mt-2 font-sans">
-          Click the button to open your personalized letter
+          Click the button for letter
         </span>
       </footer>
     </div>
